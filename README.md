@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![profile](https://github.com/ZhonghuiX/ZhonghuiX/blob/main/profile.gif)
 <!--
 **ZhonghuiX/ZhonghuiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
